@@ -1,0 +1,10 @@
+C:\Users\KDS-LTP-0415\Documents\MCUXpressoIDE_11.6.0_8187\workspace\LPC804_PT6964\drivers/fsl_clock.h:368:20:CLOCK_EnableClock	16	static
+C:\Users\KDS-LTP-0415\Documents\MCUXpressoIDE_11.6.0_8187\workspace\LPC804_PT6964\drivers/fsl_clock.h:379:20:CLOCK_DisableClock	16	static
+C:\Users\KDS-LTP-0415\Documents\MCUXpressoIDE_11.6.0_8187\workspace\LPC804_PT6964\drivers/fsl_iocon.h:102:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:36:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:62:6:BOARD_InitPins	24	static
+../board/pin_mux.c:112:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:193:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:252:6:BOARD_InitSWD_DEBUGPins	24	static
+../board/pin_mux.c:324:6:BOARD_InitI2CPins	16	static
+../board/pin_mux.c:384:6:BOARD_InitBUTTONsPins	24	static

@@ -1,0 +1,10 @@
+C:\Users\KDS-LTP-0415\Documents\MCUXpressoIDE_11.6.0_8187\workspace\LPC804_PT6964\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+../board/PT6964.c:6:6:SysTick_Handler	8	static
+../board/PT6964.c:14:6:SysTick_DelayTicks	16	static
+../board/PT6964.c:22:9:convertNumber	24	static
+../board/PT6964.c:61:6:writeByte	24	static
+../board/PT6964.c:72:6:writeCommand	16	static
+../board/PT6964.c:79:6:writeData	16	static
+../board/PT6964.c:86:6:turnOn	8	static
+../board/PT6964.c:96:6:brightnessSetting	16	static
+../board/PT6964.c:106:6:displayNilai	24	static
